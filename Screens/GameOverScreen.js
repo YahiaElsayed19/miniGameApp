@@ -1,5 +1,5 @@
 const GameOverScreen = () => {
-    return
-}
+  return;
+};
 
-export default GameOverScreen
+export default GameOverScreen;
